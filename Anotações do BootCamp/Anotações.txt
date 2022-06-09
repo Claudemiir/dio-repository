@@ -1,0 +1,26 @@
+PRINCIPAIS COMANDOS DO TERMINAL WINDOWS (CMD)
+
+. CD -> Caminhar entre as pastas da máquina
+. DIR -> Listar os diretórios no qual a pasta está situada
+. MKDIR -> Criar uma pasta dentro do diretório escolhido
+. DEL -> Deletar arquivos do diretório
+. RMDIR -> Deletar repositórios usando /S /Q
+. CD.. -> Voltar para o diretório inicial
+. CLS -> Limpar a tela do terminal
+. ECHO HELLO -> Criar um arquivo dentro da pasta. EX: ECHO HELLO > Word.txt
+
+
+ALGUNS COMANDOS DENTRO DO (GIT)
+
+.CD -> Caminhar entre as pastas da máquina
+.DIR -> Listar todas as pastas e aquivos daquele diretório
+.CTRL + L -> Limpa a interface do GIT
+.GIT INIT -> Inicializar e possibilitar que o git comece de fato a gerenciar e 
+versionar o código
+.GIT CLONE -> Clonar repositório do GitHub para dentro da máquina, ou seja, do repositório
+remoto para o repositório local.
+.GIT STATUS -> Verificar se houve atualizações no repositório local
+.GIT ADD . -> Enviar a pasta ou arquivo atualizado para o repositório remoto
+.GIT COMMIT -M -> Fazer o commit das atualizações para o repositório remoto
+.GIT PUSH ORIGIN MAIN -> Empurrar os novos arquivos ou novas atualizações diretamente
+para dentro do repositório remoto do GitHub
